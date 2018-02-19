@@ -1,0 +1,148 @@
+cb({
+	"errno": 0,
+	"errmsg": "success",
+	"baesInfo": {
+		"word_name": "\u4f60\u597d",
+		"is_CRI": 0,
+		"symbols": [{
+			"word_symbol": "n\u01d0 h\u01ceo",
+			"symbol_mp3": "",
+			"parts": [{
+				"means": ["hello", "hi", "How do you do!"],
+				"part": ""
+			}]
+		}],
+		"translate_type": 1
+	},
+	"sentence": [{
+		"Network_id": "2319702",
+		"Network_en": "Good day to you, Bernard! It's a positive delight to see you.",
+		"Network_cn": "\u4f60\u597d\uff0c\u4f2f\u7eb3\u5fb7\uff01\u89c1\u5230\u4f60\u771f\u9ad8\u5174\u3002",
+		"tts_mp3": "http:\/\/res-tts.iciba.com\/tts_new_dj\/\/5\/7\/e\/57efeb4456e4f66dfe9aed84d597357e.mp3",
+		"tts_size": "21K",
+		"source_type": 0,
+		"source_id": 0,
+		"source_title": "\u666e\u901a\u53cc\u8bed\u4f8b\u53e5"
+	}, {
+		"Network_id": "2332351",
+		"Network_en": "It's not a very good line. Shall we call you back Susan?",
+		"Network_cn": "\u7535\u8bdd\u7ebf\u8def\u4e0d\u592a\u597d\u3002\u82cf\u73ca\uff0c\u6211\u5f85\u4f1a\u513f\u518d\u6253\u7ed9\u4f60\u597d\u5417\uff1f",
+		"tts_mp3": "http:\/\/res-tts.iciba.com\/tts_new_dj\/\/b\/b\/0\/bb0bd42bd748159aa25b4aa3a94fa7a8.mp3",
+		"tts_size": "19K",
+		"source_type": 0,
+		"source_id": 0,
+		"source_title": "\u666e\u901a\u53cc\u8bed\u4f8b\u53e5"
+	}, {
+		"Network_id": "2336985",
+		"Network_en": "\"Shall I come to see you?\" \u2014 \"Are you kidding? It's miles.\"",
+		"Network_cn": "\u201c\u6211\u53bb\u770b\u671b\u4f60\u597d\u5417\uff1f\u201d\u2014\u2014\u201c\u4f60\u5728\u5f00\u73a9\u7b11\u5417\uff1f\u8def\u5f88\u8fdc\u7684\u3002\u201d",
+		"tts_mp3": "http:\/\/res-tts.iciba.com\/tts_new_dj\/\/9\/2\/1\/92111a6e12026f237ae834f49ec45837.mp3",
+		"tts_size": "25K",
+		"source_type": 0,
+		"source_id": 0,
+		"source_title": "\u666e\u901a\u53cc\u8bed\u4f8b\u53e5"
+	}],
+	"netmean": {
+		"PerfectNetExp": [{
+			"id": "10993",
+			"key": "\u4f60\u597d",
+			"exp": "Hello",
+			"url": "",
+			"bas": 21540,
+			"abs": "...\u4e0b\u4e4b\u5206\uff0c\u5173\u952e\u662f\u4e0d\u80fd\u6ee5\u7528\u3002\u82e5\u80fd\u6293\u51c6\u65f6\u673a\uff0c\u8fd0\u7528\u5f97\u5f53\uff0c\u53ef\u4ee5\u8d77\u5230\u753b\u9f99\u70b9\u775b\u7684\u4f5c\u7528\u3002\u5982\u6b4c\u661f\u83b1\u6602\u7eb3\u5c14.\u91cc\u5947\u6f14\u5531\u7684\u300a\u4f60\u597d\u300b\uff08Hello)\u5728\u526f\u6b4c\u5904\u5148\u662f\u7528\u6fc0\u6602\u7684\u58f0\u97f3\u53cd\u590d\u94fa\u9648\uff0c\u6700\u540e\u7528\u6c14\u58f0\u8f7b\u8f7b\u9001\u51fa\u4e00\u58f0\u201cI love you\u201c\uff0c\u5f88\u6709\u8868\u73b0\u529b\u3002\u7684\u4e5f\u662f."
+		}, {
+			"id": "50091",
+			"key": "\u4f60\u597d",
+			"exp": "Hi",
+			"url": "http:\/\/wenku.baidu.com\/view\/d00ba16e561252d380eb6ee3.html",
+			"bas": 3946,
+			"abs": "\u4ec1\u7231\u82f1\u8bed\u4e03\u5e74\u7ea7\u4e0a\u518c\u5355\u8bcd\u8868_\u767e\u5ea6\u6587\u5e93 ... too \u4e5f\uff0c\u8fd8\uff0c\u592a\uff0c\u8fc7\u5206\uff0c\u5f88\uff0c\u975e\u5e38 hi \u5582\uff1b\u4f60\u597d Miss \u5973\u58eb\uff0c\u5c0f\u59d0."
+		}, {
+			"id": "100929",
+			"key": "\u4f60\u597d",
+			"exp": "How are you",
+			"url": "http:\/\/wenku.baidu.com\/view\/cad88b30b90d6c85ec3ac6ce.html",
+			"bas": 1696,
+			"abs": "PEP8\u516d\u4e0b\u82f1\u8bed\u590d\u4e60\u8d44\u6599---\u5355\u8bcd\u5f52\u7c7b_\u767e\u5ea6\u6587\u5e93 ... That\u2019s OK! \u6ca1\u5173\u7cfb How are you ! \u4f60\u597d! \u56fd\u5bb6\u7c7b\uff1a \u56fd\u5bb6\u7c7b\uff1a USA \u7f8e\u56fd."
+		}, {
+			"id": "251199",
+			"key": "\u4f60\u597d",
+			"exp": "Hello Stranger",
+			"url": "http:\/\/www.7176.com\/Sections\/Genre\/Comedy",
+			"bas": 518,
+			"abs": "\u7c7b\u522b\u4e3a\u559c\u5267\u7684\u7535\u5f71\u5217\u8868\u7b2c1\u9875 ... \u9633\u5149\u5148\u751f Mr.Sunshine \u4f60\u597d\uff0c\u964c\u751f\u4eba Hello Stranger \u623f\u4e0d\u5269\u9632 Fang Bu Sheng Fang."
+		}],
+		"RelatedPhrase": [{
+			"word": "\u4f60\u597d\u4e86\u5417",
+			"list": [{
+				"id": "5541849",
+				"key": "\u4f60\u597d\u4e86\u5417",
+				"exp": "Are you OK",
+				"url": "http:\/\/j.xdf.cn\/zt\/zx\/201103\/24732745.html",
+				"bas": 5,
+				"abs": "\u6574\u88c5\u5f85\u53d1\u7684\u82f1\u6587\u600e\u4e48\u8bf4 _... ... 11 a.m. \u5341\u4e00\u70b9\u5427\u3002 Lily:Are you OK? \u4f60\u597d\u4e86\u5417\uff1f Ann:When is the airplane? \u98de\u673a\u662f\u4ec0\u4e48\u65f6\u5019\uff1f."
+			}, {
+				"id": "10539184",
+				"key": "\u4f60\u597d\u4e86\u5417",
+				"exp": "Are you ready",
+				"url": "http:\/\/www.en8848.com.cn\/office\/kouyu\/kycd\/178182.html",
+				"bas": 2,
+				"abs": "\u7528\u82f1\u8bed\u8868\u8fbe\u5bd2\u6684\u8bed\u79cd\u4e0b... ... Are you going out?\uff08 \u4f60\u8981\u51fa\u53bb\u5417\uff1f\uff09 Are you ready?\uff08 \u4f60\u597d\u4e86\u5417\uff1f\uff09 Where are you going?\uff08 \u4f60\u53bb\u54ea\u91cc\u2026"
+			}]
+		}, {
+			"word": "\u55ef\u4f60\u597d",
+			"list": [{
+				"id": "19027939",
+				"key": "\u55ef\u4f60\u597d",
+				"exp": "Uhm Hi",
+				"url": "http:\/\/dict.youdao.com\/w\/uhm\/",
+				"bas": 1,
+				"abs": "\u3010uhm\u3011\u4ec0\u4e48\u610f\u601d_\u82f1\u8beduhm\u5728\u7ebf\u7ffb\u8bd1_\u6709\u9053\u8bcd\u5178 ... UHM UniversalHostMachine \u901a\u7528\u4e3b\u673a Uhm Hi \u55ef\u4f60\u597d We Uhm \u6211\u4eec\u55ef."
+			}]
+		}, {
+			"word": "\u4f60\u597d\u54e6",
+			"list": [{
+				"id": "13831384",
+				"key": "\u4f60\u597d\u54e6",
+				"exp": "YWJ",
+				"url": "http:\/\/www.xici.net\/b504048\/d69771977.htm",
+				"bas": 1,
+				"abs": "\u5f31\u6c34\u4e09\u5343\uff01_\u98ce\u96e8\u5357\u6797_\u9662\u6821_\u897f\u7960\u80e1\u540c... ... 1200 \u4e8c\u4e16\u7956 kaka 3 1226 \u4f60\u597d\u54e6- ywj 3 1291 \u80e1\u6c49 san 3."
+			}]
+		}, {
+			"word": "\u4f60\u597d\u4f60\u597d",
+			"list": [{
+				"id": "8090310",
+				"key": "\u4f60\u597d\u4f60\u597d",
+				"exp": "Good to see you.",
+				"url": "http:\/\/www.cctv.com\/program\/happychina\/20060123\/101879.shtml",
+				"bas": 3,
+				"abs": "CCTV.com ... \u97e9\u4f73\uff1a\u4f60\u597d\u4f60\u597d\u3002 Good to see you. \u90a3\u4eca\u5929\u5c31\u62dc\u6258\u60a8\u55bd\u3002 Today,we'll rely on you."
+			}]
+		}]
+	},
+	"encyclopedia": {
+		"image": "",
+		"url": "http:\/\/baike.baidu.com\/view\/44370.htm",
+		"content": " \u57fa\u672c\u4fe1\u606f \u6b4c\u66f2\u540d\u79f0\uff1a\u300a\u4f60\u597d\u300b \u4e13\u8f91\u540d\u79f0\uff1a\u300a\u5531\u7247\u300b \u53d1\u884c\u65f6\u95f4\uff1a2011-09-28\u6b4c\u66f2\u4ecb\u7ecd \u300a\u4f60\u597d\u300b\u4e00\u6bb5\u604b\u60c5\u7684\u7ec8\u7ed3\uff0c\u5374\u662f\u53e6\u4e00\u6bb5\u601d\u5ff5\u7684\u5f00\u59cb\u3002\u201c\u4f60\u597d\uff01\u4f60\u597d\uff01\u6700\u8fd1\u8fc7\u7684\u600e\u4e48\u6837\uff1f\u6211\u5f88\u7cdf\uff0c\u6df1\u591c\u90a3\u5934\uff0c\u65e0\u60c5\u610f\u822c\u7684\u5492\u9a82\uff0c\u662f\u8c01\uff1f\u662f\u8c01\uff1f\u201d\u201c\u738b\u5f0f\u60c5\u6b4c\u201d\u7684\u6807\u51c6\u6f14\u7ece\uff0c\u8ba9\u4f60\u611f\u53d7\u4e00\u4e2a\u4e0d\u4e00\u6837\u7684\u6df1\u60c5\u738b\u5578\u5764\u3002\u8bcd\u66f2\u4fe1\u606f \u4f5c\u66f2\uff1a\u738b\u5578\u5764 Essay Wang \u4f5c\u8bcd\uff1a\u738b\u5578\u5764 Essay Wang \u5982\u679c\u5931\u7720\uff0c\u80fd\u533b\u7684\u597d \u662f\u4e0d\u662f\u5c31\u80fd\u907f\u514d\u8fd9\u4e00\u573a\u4e89\u5435 \u6211\u6ca1\u5b64\u5355\uff0c\u522b\u8bb2\u4e0d\u5b8c \u6709\u65f6\u53ea\u662f\u6050\u60e7\u72ec\u81ea\u5165\u7761\u7684"
+	},
+	"chinese": {
+		"ci": {
+			"id": "83711",
+			"ciyu": "\u4f60\u597d",
+			"pinxie": "nihao",
+			"pinyin": "n\u01d0 h\u01ceo",
+			"jieshi": "",
+			"goucheng": "",
+			"tongyi": "",
+			"fanyi": "",
+			"tongyin": "",
+			"liju": "",
+			"zi": "\u4f60",
+			"zid": "4383",
+			"ciyi": ""
+		}
+	},
+	"_word_flag": 2,
+	"exchanges": ["\u4f60\u597d"]
+})
